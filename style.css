@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    color: white;
+    background-color: black;
+
+}
+.name h1{
+    margin-left: 20px;
+    color: blueviolet;
+    font-weight: 800;
+    font-size: larger;
+}
